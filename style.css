@@ -1,0 +1,12 @@
+table, tr, td{
+    border: 1px solid white;
+    margin: 0 auto;
+    color: aliceblue;
+}
+body {
+    background-image: url(https://presenciapr.com/wp-content/uploads/2023/05/alex-zurdo-050523.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    
+}
